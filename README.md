@@ -2,12 +2,15 @@
  ## **Proje Görselleri**
  
  ## Ana Sayfa
+ ### Veri Tabanındaki ürünleri Id numarasına göre sıralanmış halde listeleniyor
  ![Ana Syfa](https://github.com/mehmetakifkucukkaya/NLayeredDemo/blob/main/%C4%B0mages/1.png)
  
  ## Kategoriye Göre Filtreleme
+ ### Seçilen kategoriye göre listeleniyor
  ![Kategoriye Göre Filtreleme](https://github.com/mehmetakifkucukkaya/NLayeredDemo/blob/main/%C4%B0mages/2.png)
  
   ## Ürün İsmine Göre Filtreleme
+  ### Girilen isime göre listeleniyor
  ![Ürün İsmine Göre Filtreleme](https://github.com/mehmetakifkucukkaya/NLayeredDemo/blob/main/%C4%B0mages/3.png)
  
   ## Ürün Ekleme
