@@ -1,0 +1,14 @@
+C:\Users\GRUNDIG\Desktop\C# Dersleri\NLayered\NLayeredApp\Northwind.DataAcces\bin\Debug\Northwind.DataAcces.dll.config
+C:\Users\GRUNDIG\Desktop\C# Dersleri\NLayered\NLayeredApp\Northwind.DataAcces\bin\Debug\Northwind.DataAcces.dll
+C:\Users\GRUNDIG\Desktop\C# Dersleri\NLayered\NLayeredApp\Northwind.DataAcces\bin\Debug\Northwind.DataAcces.pdb
+C:\Users\GRUNDIG\Desktop\C# Dersleri\NLayered\NLayeredApp\Northwind.DataAcces\bin\Debug\EntityFramework.dll
+C:\Users\GRUNDIG\Desktop\C# Dersleri\NLayered\NLayeredApp\Northwind.DataAcces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GRUNDIG\Desktop\C# Dersleri\NLayered\NLayeredApp\Northwind.DataAcces\bin\Debug\Northwind.Entities.dll
+C:\Users\GRUNDIG\Desktop\C# Dersleri\NLayered\NLayeredApp\Northwind.DataAcces\bin\Debug\Northwind.Entities.pdb
+C:\Users\GRUNDIG\Desktop\C# Dersleri\NLayered\NLayeredApp\Northwind.DataAcces\bin\Debug\EntityFramework.xml
+C:\Users\GRUNDIG\Desktop\C# Dersleri\NLayered\NLayeredApp\Northwind.DataAcces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GRUNDIG\Desktop\C# Dersleri\NLayered\NLayeredApp\Northwind.DataAcces\obj\Debug\Northwind.DataAccess.csproj.AssemblyReference.cache
+C:\Users\GRUNDIG\Desktop\C# Dersleri\NLayered\NLayeredApp\Northwind.DataAcces\obj\Debug\Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\GRUNDIG\Desktop\C# Dersleri\NLayered\NLayeredApp\Northwind.DataAcces\obj\Debug\Northwind.DataAccess.csproj.CopyComplete
+C:\Users\GRUNDIG\Desktop\C# Dersleri\NLayered\NLayeredApp\Northwind.DataAcces\obj\Debug\Northwind.DataAcces.dll
+C:\Users\GRUNDIG\Desktop\C# Dersleri\NLayered\NLayeredApp\Northwind.DataAcces\obj\Debug\Northwind.DataAcces.pdb
